@@ -1,0 +1,1 @@
+"# This a python program I wrote to make my wife's daily life easier teaching my son. The python program generates a page of random, colorful math questions with adjustable difficulty. Just run the code and a <today's date>.docx file will be generated in the working directory" 
